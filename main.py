@@ -1,3 +1,4 @@
+# this website is a main file to run the website
 # We can do this because website is part of a python package due to __init__.py file.
 from website import create_app
 
